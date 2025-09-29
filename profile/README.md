@@ -1,4 +1,7 @@
-# NekoDex
+![The official logo featuring an electronic device on the left and text that says "nekodex" on the right.](https://github.com/nekodex-app/.github/blob/main/media/nekodex-github-banner.png?raw=true)
+The official logo featuring an electronic device on the left and text that says "nekodex" on the right.
+
+# What is NekoDex?
 
 NekoDex is a free desktop application designed to keep track of your favourite anime titles without any clutter.
 
